@@ -28,4 +28,4 @@ This repository includes multiple Python scripts demonstrating:
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/Samruddhi-Savale/Python-Project.git
+https://github.com/Samruddhi-Savale/Python-Project.git
