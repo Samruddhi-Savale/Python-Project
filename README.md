@@ -23,7 +23,6 @@ This repository includes multiple Python scripts demonstrating:
 
 - Python 3.10+  
 - Standard libraries (no external installations required)  
-  *(If you later use `pandas`, `numpy`, etc., list them here.)*
 
 ## How to Run
 
