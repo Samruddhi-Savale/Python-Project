@@ -12,10 +12,10 @@ This repository includes multiple Python scripts demonstrating:
 
 ## Files
 
-- **Task_1.py** – Python script for solving [Calculator]
-- **Task_2.py** – Python script for solving [ATM Simulator]
-- **Task_3.py** – Python script for solving [Random Password Generator]
-- **Task_4.py** – Python script for solving [Rock, Paper, Scissors Game]
+- **Task 1** – Python script for solving [Calculator]
+- **Task 2** – Python script for solving [ATM Simulator]
+- **Task 3** – Python script for solving [Random Password Generator]
+- **Task 4** – Python script for solving [Rock, Paper, Scissors Game]
 
 *(Each script is independent and can be run separately.)*
 
